@@ -1,0 +1,157 @@
+2019/05/04 17:41:15 [emerg] 22792#18132: CreateFile() "D:\À—π∑∏ﬂÀŸœ¬‘ÿ\nginx-1.16.0\nginx-1.16.0/conf/nginx.conf" failed (1113: No mapping for the Unicode character exists in the target multi-byte code page)
+2019/05/04 17:42:38 [error] 20396#37244: *3 CreateFile() "D:\nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2019/05/04 17:50:32 [error] 20396#37244: *9 CreateFile() "D:\nginx/html/index1.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /index1.html HTTP/1.1", host: "localhost"
+2019/05/04 17:52:21 [error] 20396#37244: *12 CreateFile() "D:\nginx/html/index1.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /index1.html HTTP/1.1", host: "localhost"
+2019/05/04 17:52:44 [error] 20396#37244: *12 CreateFile() "D:\nginx/html/index1.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /index1.html HTTP/1.1", host: "localhost"
+2019/05/04 17:58:25 [error] 20396#37244: *21 CreateFile() "D:\nginx/html/indexx.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /indexx.html HTTP/1.1", host: "localhost"
+2019/05/04 17:58:27 [error] 20396#37244: *21 CreateFile() "D:\nginx/html/indexx.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /indexx.html HTTP/1.1", host: "localhost"
+2019/05/04 18:02:46 [error] 20396#37244: *24 CreateFile() "D:\nginx/html/indexx.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /indexx.html HTTP/1.1", host: "localhost"
+2019/05/04 18:02:48 [error] 20396#37244: *24 CreateFile() "D:\nginx/html/indexx.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /indexx.html HTTP/1.1", host: "localhost"
+2019/05/04 18:04:56 [error] 28844#36260: *4 CreateFile() "D:\nginx/html/indexx.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /indexx.html HTTP/1.1", host: "localhost:8080"
+2019/05/04 18:05:00 [error] 28844#36260: *4 CreateFile() "D:\nginx/html/indexx.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /indexx.html HTTP/1.1", host: "localhost:8080"
+2019/05/04 18:07:54 [error] 37012#34944: *1 CreateFile() "D:\nginx/html/indexx.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /indexx.html HTTP/1.1", host: "localhost:8080"
+2019/05/04 18:08:29 [error] 37012#34944: *1 CreateFile() "D:\nginx/html/indexx.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /indexx.html HTTP/1.1", host: "localhost:8080"
+2019/05/04 18:09:24 [error] 32676#32668: *1 CreateFile() "D:\nginx/html/indexx.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /indexx.html HTTP/1.1", host: "localhost"
+2019/05/04 18:09:24 [error] 32676#32668: *1 CreateFile() "D:\nginx/html/indexx.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /indexx.html HTTP/1.1", host: "localhost"
+2019/05/04 18:09:27 [error] 32676#32668: *1 CreateFile() "D:\nginx/html/indexx.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /indexx.html HTTP/1.1", host: "localhost"
+2019/05/04 19:00:21 [error] 20364#37156: *2 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /mobileH5/Login.html HTTP/1.1", upstream: "http://127.0.0.1:3362/mobileH5/Login.html", host: "localhost"
+2019/05/04 19:00:22 [error] 20364#37156: *2 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /mobileH5/Login.html HTTP/1.1", upstream: "http://[::1]:3362/mobileH5/Login.html", host: "localhost"
+2019/05/04 20:34:16 [notice] 36560#34996: signal process started
+2019/05/04 20:34:42 [notice] 39032#36136: signal process started
+2019/05/04 20:47:43 [notice] 41448#10772: signal process started
+2019/05/04 20:49:03 [notice] 18444#42968: signal process started
+2019/05/04 20:54:26 [notice] 6436#42948: signal process started
+2019/05/04 20:57:19 [notice] 38808#41276: signal process started
+2019/05/04 20:57:23 [notice] 41744#39188: signal process started
+2019/05/04 20:57:23 [error] 41744#39188: CreateFile() "D:\nginx/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2019/05/04 21:01:45 [notice] 42972#42576: signal process started
+2019/05/04 21:01:45 [error] 42972#42576: OpenEvent("Global\ngx_quit_31444") failed (2: The system cannot find the file specified)
+2019/05/04 21:01:48 [notice] 40444#40700: signal process started
+2019/05/04 21:01:48 [error] 40444#40700: OpenEvent("Global\ngx_quit_31444") failed (2: The system cannot find the file specified)
+2019/05/04 21:01:50 [notice] 33980#40596: signal process started
+2019/05/04 21:01:50 [error] 33980#40596: OpenEvent("Global\ngx_quit_31444") failed (2: The system cannot find the file specified)
+2019/05/04 21:02:20 [notice] 38840#36668: signal process started
+2019/05/04 21:02:20 [error] 38840#36668: OpenEvent("Global\ngx_stop_31444") failed (2: The system cannot find the file specified)
+2019/05/04 21:02:28 [notice] 43308#43312: signal process started
+2019/05/04 21:02:28 [error] 43308#43312: OpenEvent("Global\ngx_stop_31444") failed (2: The system cannot find the file specified)
+2019/05/04 21:02:30 [notice] 43492#43496: signal process started
+2019/05/04 21:02:30 [error] 43492#43496: OpenEvent("Global\ngx_stop_31444") failed (2: The system cannot find the file specified)
+2019/05/04 21:02:32 [notice] 43664#43668: signal process started
+2019/05/04 21:02:32 [error] 43664#43668: OpenEvent("Global\ngx_stop_31444") failed (2: The system cannot find the file specified)
+2019/05/04 21:03:07 [error] 42756#41192: *241 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /mobileH5/Login.html HTTP/1.1", upstream: "http://[::1]:3362/mobileH5/Login.html", host: "localhost"
+2019/05/04 21:03:08 [error] 42756#41192: *241 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /mobileH5/Login.html HTTP/1.1", upstream: "http://127.0.0.1:3362/mobileH5/Login.html", host: "localhost"
+2019/05/04 21:03:59 [error] 42756#41192: *359 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:3362/", host: "localhost"
+2019/05/04 21:04:01 [error] 42756#41192: *359 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://[::1]:3362/", host: "localhost"
+2019/05/04 21:05:19 [error] 42756#41192: *363 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:3362/", host: "localhost"
+2019/05/04 21:05:20 [error] 42756#41192: *363 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://[::1]:3362/", host: "localhost"
+2019/05/04 21:05:31 [error] 42756#41192: *363 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:3362/", host: "localhost"
+2019/05/04 21:05:32 [error] 42756#41192: *363 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://[::1]:3362/", host: "localhost"
+2019/05/04 21:05:41 [error] 42756#41192: *363 no live upstreams while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://localhost/", host: "localhost"
+2019/05/04 21:07:04 [notice] 43640#43596: signal process started
+2019/05/04 21:07:04 [error] 43640#43596: OpenEvent("Global\ngx_stop_31444") failed (2: The system cannot find the file specified)
+2019/05/04 21:07:08 [notice] 36664#39456: signal process started
+2019/05/04 21:07:08 [error] 36664#39456: OpenEvent("Global\ngx_stop_31444") failed (2: The system cannot find the file specified)
+2019/05/04 21:07:18 [notice] 41836#43316: signal process started
+2019/05/04 21:07:18 [error] 41836#43316: OpenEvent("Global\ngx_stop_31444") failed (2: The system cannot find the file specified)
+2019/05/04 21:08:27 [notice] 41472#36384: signal process started
+2019/05/04 21:08:27 [error] 41472#36384: OpenEvent("Global\ngx_quit_31444") failed (2: The system cannot find the file specified)
+2019/05/04 21:08:30 [notice] 43912#42572: signal process started
+2019/05/04 21:08:30 [error] 43912#42572: OpenEvent("Global\ngx_quit_31444") failed (2: The system cannot find the file specified)
+2019/05/04 21:08:35 [error] 42756#41192: *372 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:3362/", host: "localhost"
+2019/05/04 21:08:36 [error] 42756#41192: *372 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://[::1]:3362/", host: "localhost"
+2019/05/04 21:09:01 [error] 42756#41192: *372 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:3362/", host: "localhost"
+2019/05/04 21:09:02 [error] 42756#41192: *372 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://[::1]:3362/", host: "localhost"
+2019/05/04 21:15:00 [notice] 44376#44904: signal process started
+2019/05/04 21:16:54 [notice] 44964#44968: signal process started
+2019/05/04 21:19:34 [notice] 28208#44144: signal process started
+2019/05/04 21:29:43 [notice] 31716#41560: signal process started
+2019/05/06 15:34:36 [error] 61320#63140: *2 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:3362/", host: "localhost"
+2019/05/06 15:34:37 [error] 61320#63140: *2 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://[::1]:3362/", host: "localhost"
+2019/05/06 15:35:39 [notice] 59136#32424: signal process started
+2019/05/06 15:35:42 [error] 67208#13364: *6 directory index of "D:\nginx/mobileH5/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2019/05/06 15:35:46 [error] 67208#13364: *6 directory index of "D:\nginx/mobileH5/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2019/05/06 15:36:21 [error] 67208#13364: *6 CreateFile() "D:\nginx/mobileH5/Login.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /Login.html HTTP/1.1", host: "localhost"
+2019/05/06 15:36:21 [error] 67208#13364: *6 CreateFile() "D:\nginx/mobileH5/404.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /Login.html HTTP/1.1", host: "localhost"
+2019/05/06 15:36:40 [error] 67208#13364: *6 CreateFile() "D:\nginx/mobileH5/mobileH5/Login.html" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /mobileH5/Login.html HTTP/1.1", host: "localhost"
+2019/05/06 15:36:40 [error] 67208#13364: *6 CreateFile() "D:\nginx/mobileH5/404.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /mobileH5/Login.html HTTP/1.1", host: "localhost"
+2019/05/06 15:36:40 [error] 67208#13364: *6 CreateFile() "D:\nginx/mobileH5/mobileH5/Login.html" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /mobileH5/Login.html HTTP/1.1", host: "localhost"
+2019/05/06 15:36:40 [error] 67208#13364: *6 CreateFile() "D:\nginx/mobileH5/404.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /mobileH5/Login.html HTTP/1.1", host: "localhost"
+2019/05/06 15:36:45 [error] 67208#13364: *6 CreateFile() "D:\nginx/mobileH5/Login.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /Login.html HTTP/1.1", host: "localhost"
+2019/05/06 15:36:45 [error] 67208#13364: *6 CreateFile() "D:\nginx/mobileH5/404.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /Login.html HTTP/1.1", host: "localhost"
+2019/05/06 15:36:46 [error] 67208#13364: *6 CreateFile() "D:\nginx/mobileH5/Login.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /Login.html HTTP/1.1", host: "localhost"
+2019/05/06 15:36:46 [error] 67208#13364: *6 CreateFile() "D:\nginx/mobileH5/404.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /Login.html HTTP/1.1", host: "localhost"
+2019/05/06 15:38:14 [notice] 60200#59000: signal process started
+2019/05/06 15:39:14 [notice] 36388#56236: signal process started
+2019/05/06 15:43:41 [notice] 73912#75188: signal process started
+2019/05/06 15:43:46 [error] 37808#64724: *36 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /mobileH5/ViewLogin.html HTTP/1.1", upstream: "http://[::1]:80/mobileH5/ViewLogin.html", host: "localhost"
+2019/05/06 15:43:48 [alert] 37808#64724: *1061 1024 worker_connections are not enough while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /mobileH5/ViewLogin.html HTTP/1.0", upstream: "http://127.0.0.1:80/mobileH5/ViewLogin.html", host: "localhost"
+2019/05/06 15:43:58 [error] 37808#64724: *1690 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /ViewLogin.html HTTP/1.0", upstream: "http://[::1]:80/ViewLogin.html", host: "localhost"
+2019/05/06 15:43:59 [alert] 37808#64724: *2085 1024 worker_connections are not enough while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /ViewLogin.html HTTP/1.0", upstream: "http://127.0.0.1:80/ViewLogin.html", host: "localhost"
+2019/05/06 15:44:34 [error] 37808#64724: *2089 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.0", upstream: "http://[::1]:80/", host: "localhost"
+2019/05/06 15:44:36 [alert] 37808#64724: *3109 1024 worker_connections are not enough while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.0", upstream: "http://127.0.0.1:80/", host: "localhost"
+2019/05/06 15:44:50 [error] 37808#64724: *3113 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.0", upstream: "http://[::1]:80/", host: "localhost"
+2019/05/06 15:44:52 [alert] 37808#64724: *4133 1024 worker_connections are not enough while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.0", upstream: "http://127.0.0.1:80/", host: "localhost"
+2019/05/06 15:49:05 [notice] 71076#69068: signal process started
+2019/05/06 15:49:15 [error] 79120#75228: *4134 directory index of "D:\nginx/mobileH5/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2019/05/06 15:49:27 [notice] 71676#61504: signal process started
+2019/05/06 15:49:31 [error] 70416#69896: *4137 directory index of "D:\nginx/mobileH5/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2019/05/06 15:49:33 [error] 70416#69896: *4137 directory index of "D:\nginx/mobileH5/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2019/05/06 15:51:03 [error] 70416#69896: *4140 directory index of "D:\nginx/mobileH5/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2019/05/06 15:51:11 [notice] 66456#19808: signal process started
+2019/05/06 15:51:13 [error] 70416#69896: *4141 directory index of "D:\nginx/mobileH5/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2019/05/06 15:51:14 [error] 12432#65300: *4143 directory index of "D:\nginx/mobileH5/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2019/05/06 15:51:15 [error] 12432#65300: *4143 directory index of "D:\nginx/mobileH5/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2019/05/06 15:52:36 [notice] 63984#66024: signal process started
+2019/05/06 15:53:36 [notice] 76232#72912: signal process started
+2019/05/06 15:53:43 [error] 43828#66740: *4149 directory index of "D:\nginx/htm/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2019/05/06 15:54:25 [notice] 51180#42148: signal process started
+2019/05/06 15:54:56 [error] 63756#63144: *4153 CreateFile() "D:\nginx/htm/js/json/ViewLogin.js" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /js/json/ViewLogin.js HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2019/05/06 15:54:56 [error] 63756#63144: *4153 CreateFile() "D:\nginx/htm/404.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /js/json/ViewLogin.js HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2019/05/06 15:54:57 [error] 63756#63144: *4153 CreateFile() "D:\nginx/htm/js/json/ViewLogin.js" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /js/json/ViewLogin.js HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2019/05/06 15:54:57 [error] 63756#63144: *4153 CreateFile() "D:\nginx/htm/404.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /js/json/ViewLogin.js HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2019/05/06 15:56:38 [notice] 59952#63684: signal process started
+2019/05/06 15:56:44 [error] 65364#62600: *4158 CreateFile() "D:\nginx/mobileH5/js/json/ViewLogin.js" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /js/json/ViewLogin.js HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2019/05/06 15:56:44 [error] 65364#62600: *4158 CreateFile() "D:\nginx/mobileH5/404.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /js/json/ViewLogin.js HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2019/05/06 15:56:45 [error] 65364#62600: *4158 CreateFile() "D:\nginx/mobileH5/js/json/ViewLogin.js" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /js/json/ViewLogin.js HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2019/05/06 15:56:45 [error] 65364#62600: *4158 CreateFile() "D:\nginx/mobileH5/404.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /js/json/ViewLogin.js HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2019/05/06 16:00:45 [notice] 28392#68636: signal process started
+2019/05/06 16:03:57 [notice] 45480#73668: signal process started
+2019/05/06 16:06:24 [emerg] 26212#26336: bind() to 0.0.0.0:8088 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2019/05/06 16:08:04 [error] 40184#11436: *1 CreateFile() "D:\nginx/mobileH5/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080"
+2019/05/06 16:08:04 [error] 40184#11436: *1 CreateFile() "D:\nginx/mobileH5/404.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080"
+2019/05/06 16:10:12 [notice] 12092#8044: signal process started
+2019/05/06 16:18:14 [notice] 55308#26668: signal process started
+2019/05/06 18:12:36 [error] 11488#57968: *96 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:3362/", host: "localhost:8080"
+2019/05/06 18:12:37 [error] 11488#57968: *96 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://[::1]:3362/", host: "localhost:8080"
+2019/05/06 18:12:37 [error] 11488#57968: *96 no live upstreams while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://localhost/", host: "localhost:8080"
+2019/05/07 17:32:46 [error] 11488#57968: *100 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://[::1]:3362/", host: "localhost:8080"
+2019/05/07 17:32:47 [error] 11488#57968: *100 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:3362/", host: "localhost:8080"
+2019/05/07 17:33:14 [error] 11488#57968: *100 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /mobileH5/ViewLogin.html HTTP/1.1", upstream: "http://[::1]:3362/mobileH5/ViewLogin.html", host: "localhost:8080"
+2019/05/07 17:33:15 [error] 11488#57968: *100 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /mobileH5/ViewLogin.html HTTP/1.1", upstream: "http://127.0.0.1:3362/mobileH5/ViewLogin.html", host: "localhost:8080"
+2019/05/07 17:33:20 [error] 11488#57968: *100 no live upstreams while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /mobileH5/ViewLogin.html HTTP/1.1", upstream: "http://localhost/mobileH5/ViewLogin.html", host: "localhost:8080"
+2019/05/08 09:33:34 [notice] 59176#43220: signal process started
+2019/05/08 09:33:40 [error] 9804#46588: *214 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /mobileH5/ViewLogin.html HTTP/1.1", upstream: "http://[::1]:3362/mobileH5/ViewLogin.html", host: "localhost:8080"
+2019/05/08 09:33:42 [error] 9804#46588: *214 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /mobileH5/ViewLogin.html HTTP/1.1", upstream: "http://127.0.0.1:3362/mobileH5/ViewLogin.html", host: "localhost:8080"
+2019/05/08 09:33:44 [error] 9804#46588: *214 no live upstreams while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /mobileH5/ViewLogin.html HTTP/1.1", upstream: "http://localhost/mobileH5/ViewLogin.html", host: "localhost:8080"
+2019/05/08 09:41:24 [notice] 26208#33980: signal process started
+2019/05/08 09:41:46 [emerg] 61384#50776: invalid parameter "/apis" in D:\nginx/conf/nginx.conf:56
+2019/05/08 09:41:47 [emerg] 50664#44344: invalid parameter "/apis" in D:\nginx/conf/nginx.conf:56
+2019/05/08 09:42:07 [emerg] 32576#50492: invalid parameter "/apis1" in D:\nginx/conf/nginx.conf:56
+2019/05/08 09:43:16 [emerg] 52128#15216: invalid number of arguments in "proxy_cookie_path" directive in D:\nginx/conf/nginx.conf:56
+2019/05/08 09:43:33 [notice] 31244#48072: signal process started
+2019/05/08 09:43:45 [notice] 20168#54004: signal process started
+2019/05/08 13:41:46 [notice] 14756#10148: signal process started
+2019/05/09 13:23:32 [notice] 47864#1360: signal process started
+2019/05/09 14:15:31 [notice] 24856#38156: signal process started
+2019/05/09 14:15:35 [error] 13252#33748: *1452 CreateFile() "D:\nginx/mobileH5/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:18181", referrer: "http://localhost:18181/ViewLogin.html"
+2019/05/09 14:15:35 [error] 13252#33748: *1452 CreateFile() "D:\nginx/mobileH5/404.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:18181", referrer: "http://localhost:18181/ViewLogin.html"
+2019/05/09 14:18:19 [notice] 6732#52412: signal process started
+2019/05/09 17:27:09 [notice] 60864#31468: signal process started
+2019/05/09 17:27:09 [error] 60864#31468: CreateFile() "D:\nginx/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2019/06/18 14:26:55 [error] 3232#7876: *1 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "POST /apis/visit/task/tasks HTTP/1.1", upstream: "http://218.1.251.158:18080/visit/task/tasks", host: "localhost:18181", referrer: "http://localhost:1653/ViewIndex.html"
+2019/06/18 14:27:42 [error] 3232#7876: *1 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "POST /apis/visit/task/tasks HTTP/1.1", upstream: "http://218.1.251.158:18080/visit/task/tasks", host: "localhost:18181", referrer: "http://localhost:1653/ViewIndex.html"
+2019/06/18 14:32:52 [error] 3232#7876: *9 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "POST /apis/visit/cust/custs HTTP/1.1", upstream: "http://218.1.251.158:18080/visit/cust/custs", host: "localhost:18181", referrer: "http://localhost:1653/ViewLogin.html"
+2019/06/18 14:32:52 [error] 3232#7876: *10 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "POST /apis/visit/terminal/visit HTTP/1.1", upstream: "http://218.1.251.158:18080/visit/terminal/visit", host: "localhost:18181", referrer: "http://localhost:1653/ViewLogin.html"
+2019/06/18 14:33:19 [error] 3232#7876: *10 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "POST /apis/visit/closeWarning/login HTTP/1.1", upstream: "http://218.1.251.158:18080/visit/closeWarning/login", host: "localhost:18181", referrer: "http://localhost:1653/ViewLogin.html"
+2019/06/19 05:19:20 [notice] 14044#15936: signal process started
+2019/06/19 15:49:16 [notice] 16284#14400: signal process started

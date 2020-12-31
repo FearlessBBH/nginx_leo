@@ -1,0 +1,9 @@
+(start nginx.bat) 启动nginx
+(stop nginx.bat) 停止nginx
+
+(reload nginx.bat) 重新载入Nginx
+当配置信息修改，需要重新载入这些配置时使用此命令。
+
+(taskkill nginx.bat) 杀死nginx进程
+执行 nginx.exe -s stop或者quit命令还有80端口在Listening，并且浏览器F5刷新还能访问页面，可能nginx.exe版本或系统的原因，用
+taskkill /f /im nginx.exe > log 杀死nginx进程
